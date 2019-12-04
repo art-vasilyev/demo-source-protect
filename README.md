@@ -1,6 +1,6 @@
 # Distributing python packages protected with Cython
 
-This is a sample application for demonstrationg how to protect app source code and distribute package. All magic is in the ``setup.py`` file.
+This is a sample application for demonstrating how to protect app source code and distribute package. All magic is in the ``setup.py`` file.
 
 ## Set up environment
 
